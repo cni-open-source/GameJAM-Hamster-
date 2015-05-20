@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Hamster\PlayerController.cs">
+    <Files>
+      <File FileName="Assets\Hamster\PlayerController.cs" Line="78" Column="41" />
+      <File FileName="Assets\Meta\levelPassed.cs" Line="1" Column="1" />
+      <File FileName="Assets\!4thLevel\DiscoLight.cs" Line="1" Column="1" />
+      <File FileName="Assets\Meta\Meta.cs" Line="1" Column="1" />
+      <File FileName="Assets\onDeath\die.cs" Line="1" Column="1" />
+      <File FileName="d:\Win10Hacks\Chamster\Assets\!4thLevel\EndGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\UI\dodajZeby.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scenes\Menu\mainMenu.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,117 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     128 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 78)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Shelim\Documents\Unity Projects\Hamster_rush\Hamster_rush_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Shelim\Documents\Unity Projects\Hamster_rush\Hamster_rush_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Shelim\Documents\Unity Projects\Hamster_rush\Hamster_rush_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Shelim\Documents\Unity Projects\Hamster_rush\Hamster_rush_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Shelim\Documents\Unity Projects\Hamster_rush\Hamster_rush_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Shelim\Documents\Unity Projects\Hamster_rush\Hamster_rush_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Shelim\Documents\Unity Projects\Hamster_rush\Hamster_rush_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Shelim\Documents\Unity Projects\Hamster_rush\Hamster_rush_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Shelim\Documents\Unity Projects\Hamster_rush\Hamster_rush_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Shelim\Documents\Unity Projects\Hamster_rush\Hamster_rush_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.047 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Shelim\Documents\Unity Projects\Hamster_rush\Hamster_rush_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Shelim\Documents\Unity Projects\Hamster_rush\Hamster_rush_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1713)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1713)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1c30 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.421049 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1649.
+Total: 0.448177 ms (FindLiveObjects: 0.067996 ms CreateObjectMapping: 0.082536 ms MarkObjects: 0.274123 ms  DeleteObjects: 0.022237 ms)
+
+tooth
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+obstacles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tooth
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tooth
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tooth
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+obstacles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tooth
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tooth
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+obstacles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+obstacles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+obstacles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tooth
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tooth
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+obstacles
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tooth
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tooth
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+tooth
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
